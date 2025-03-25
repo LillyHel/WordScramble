@@ -14,7 +14,7 @@ WordScramble is a fun word game where you create new words from a randomly gener
 1. Install Xcode (if not already installed)
 2. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/WordScramble.git
+   git clone https://github.com/LillyHel/WordScramble.git
    ```
 3. Open the project in Xcode and run it
 
